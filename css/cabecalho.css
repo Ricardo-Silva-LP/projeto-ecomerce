@@ -103,6 +103,18 @@
     .cabecalho .menu-principal ul {
         flex-direction: row;
     }
+
+    .menu-hanburger {
+        display: none;
+    }
+
+    .cabecalho .menu-principal ul {
+        gap: 2rem;
+    }
+
+    .cabecalho ul li a {
+        font-size: 1rem;
+    }
 }
 
 
